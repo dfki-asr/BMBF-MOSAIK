@@ -1,0 +1,36 @@
+[submodule "AJAN-unity"]
+	path = AJAN-unity
+	url = https://github.com/dfki-asr/AJAN-unity.git
+[submodule "eca-base-model"]
+	path = eca-base-model
+	url = https://github.com/dfki-asr/eca-base-model.git
+[submodule "eca2ld"]
+  path = eca2ld
+  url = https://github.com/dfki-asr/eca2ld.git
+[submodule "eca2ld-unity"]
+  path = eca2ld-unity
+  url = https://github.com/dfki-asr/eca2ld-unity.git
+[submodule "IPC-domains"]
+  path = IPC-domains
+  url = https://github.com/dfki-asr/IPC-domains.git
+[submodule "linked-datapoints"]
+  path = linked-datapoints
+  url = https://github.com/dfki-asr/linked-datapoints.git
+[submodule "serendipity"]
+  path = serendipity
+  url = https://github.com/dfki-asr/serendipity.git
+[submodule "serendipity-client"]
+  path = serendipity-client
+  url = https://github.com/dfki-asr/serendipity-client.git
+[submodule "sparqlqc-benchmark"]
+  path = sparqlqc-benchmark
+  url = https://github.com/dfki-asr/sparqlqc-benchmark.git
+[submodule "sparqlqc-engine"]
+  path = sparqlqc-engine
+  url = https://github.com/dfki-asr/sparqlqc-engine.git
+[submodule "StigLD-Demo"]
+  path = StigLD-Demo
+  url = https://github.com/dfki-asr/StigLD-Demo.git
+[submodule "stigmergy-demo"]
+  path = stigmergy-demo
+  url = https://github.com/dfki-asr/stigmergy-demo.git
