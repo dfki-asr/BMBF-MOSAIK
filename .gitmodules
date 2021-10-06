@@ -1,12 +1,12 @@
 [submodule "AJAN-unity"]
-  path = AJAN-unity
-  url = https://github.com/dfki-asr/AJAN-unity.git
+	path = AJAN-unity
+	url = https://github.com/dfki-asr/AJAN-unity.git
 [submodule "eca-base-model"]
-  path = eca-base-model
-  url = https://github.com/dfki-asr/eca-base-model.git
+	path = eca-base-model
+	url = https://github.com/dfki-asr/eca-base-model.git
 [submodule "eca2ld"]
-  path = eca2ld
-  url = https://github.com/dfki-asr/eca2ld.git
+	path = eca2ld
+	url = https://github.com/dfki-asr/eca2ld.git
 [submodule "eca2ld-unity"]
   path = eca2ld-unity
   url = https://github.com/dfki-asr/eca2ld-unity.git
